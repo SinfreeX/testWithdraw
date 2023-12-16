@@ -1,0 +1,1 @@
+export {type MultiWalletsProps, MultiWallets} from './ui/MultiWallets.tsx'
